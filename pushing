@@ -1,0 +1,5 @@
+git lfs install
+git lfs track "path/to/your/large/file"
+git add .gitattributes
+git commit -m "Track large file with Git LFS"
+git push
